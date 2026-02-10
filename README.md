@@ -145,9 +145,5 @@ Note: The current Flask app uses the rule-based predictor for simplicity. You ca
 ### Screenshots / Branding
 You can add your own banner or use `images/Walmart-Logo.png` in your docs. The app UI supports dark and light themes with a selectable accent color.
 
----
-
-### License
-For internal demo/education. Add a license of your choice if distributing.
 
 
